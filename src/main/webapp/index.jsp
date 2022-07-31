@@ -1,5 +1,8 @@
-<html>
-<body>
-<h2>Hello Universe!</h2>
-</body>
-</html>
+<html>  
+<body>  
+<form action="welcome.jsp">  
+<input type="text" name="uname">  
+<input type="submit" value="go"><br/>  
+</form>  
+</body>  
+</html> 
